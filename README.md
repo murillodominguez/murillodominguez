@@ -5,7 +5,7 @@
 🌱 Atualmente trabalhando como estagiário no projeto social REDE FAMÍLIA
 
 ### Experiência com:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,postgresql,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,html,css,postgresql,mysql,photoshop)](https://skillicons.dev)
 <!--
 **murillodominguez/murillodominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
