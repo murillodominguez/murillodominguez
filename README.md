@@ -1,5 +1,5 @@
 ### 💻 Estudante de Informática para Internet no Instituto Federal do Rio Grande do Sul
-👨‍💻 Desenvolvedor Full-Stack em constante aprendizado.
+👨‍💻 Desenvolvedor Full Stack em constante aprendizado.
 
 
 🌱 Atualmente trabalhando como estagiário no projeto social REDE FAMÍLIA
