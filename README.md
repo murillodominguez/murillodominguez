@@ -1,8 +1,8 @@
-### Estudante de Informática para Internet no Instituto Federal do Rio Grande do Sul
-Desenvolvedor Full-Stack em constante aprendizado.
+###💻 Estudante de Informática para Internet no Instituto Federal do Rio Grande do Sul
+👨‍💻 Desenvolvedor Full-Stack em constante aprendizado.
 
 
-Atualmente trabalhando como estagiário no projeto social REDE FAMÍLIA
+🌱 Atualmente trabalhando como estagiário no projeto social REDE FAMÍLIA
 
 <!--
 **murillodominguez/murillodominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
