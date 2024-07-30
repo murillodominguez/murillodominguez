@@ -2,7 +2,7 @@
 👨‍💻 Desenvolvedor Full Stack em constante aprendizado.
 
 
-🌱 Atualmente trabalhando como estagiário no projeto social REDE FAMÍLIA
+🌱 Atualmente trabalhando como webdev estagiário no projeto social REDE FAMÍLIA
 
 ### Experiência com:
 [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,postgresql,mysql,photoshop)](https://skillicons.dev)
