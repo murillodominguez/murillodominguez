@@ -7,7 +7,7 @@
 ### Experiência com:
 [![My Skills](https://skillicons.dev/icons?i=js,php,py,nodejs,html,css,postgresql,mysql,photoshop)](https://skillicons.dev)
 
-Meu LinkedIn: [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) -> www.linkedin.com/in/murillo-dominguez
 <!--
 **murillodominguez/murillodominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
