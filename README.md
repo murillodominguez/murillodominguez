@@ -1,5 +1,7 @@
 ### 🎓 Técnico em Informática para Internet - Instituto Federal do Rio Grande do Sul (IFRS)
 ### 🌱 Atualmente cursando Sistemas de Informação na FURG (Universidade Federal do Rio Grande)
+
+
 👨‍💻 Desenvolvedor Full Stack em constante aprendizado.
 
 
