@@ -2,7 +2,7 @@
 👨‍💻 Desenvolvedor Full Stack em constante aprendizado.
 
 
-🌱 Atualmente cursando Sistemas de Informação na FURG (Universidade Federal do Rio Grande)
+### 🌱 Atualmente cursando Sistemas de Informação na FURG (Universidade Federal do Rio Grande)
 
 ### Experiência com:
 [![My Skills](https://skillicons.dev/icons?i=js,php,html,css,postgresql,mysql,photoshop)](https://skillicons.dev)
