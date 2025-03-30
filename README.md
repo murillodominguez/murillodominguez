@@ -1,8 +1,9 @@
-### 💻 Formado no curso técnico de Informática para Internet no Instituto Federal do Rio Grande do Sul
+### 🎓 Técnico em Informática para Internet - Instituto Federal do Rio Grande do Sul (IFRS)
+### 🌱 Atualmente cursando Sistemas de Informação na FURG (Universidade Federal do Rio Grande)
 👨‍💻 Desenvolvedor Full Stack em constante aprendizado.
 
 
-### 🌱 Atualmente cursando Sistemas de Informação na FURG (Universidade Federal do Rio Grande)
+
 
 ### Experiência com:
 [![My Skills](https://skillicons.dev/icons?i=js,php,py,nodejs,html,css,postgresql,mysql,photoshop)](https://skillicons.dev)
