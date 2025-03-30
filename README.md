@@ -5,7 +5,7 @@
 ### 🌱 Atualmente cursando Sistemas de Informação na FURG (Universidade Federal do Rio Grande)
 
 ### Experiência com:
-[![My Skills](https://skillicons.dev/icons?i=js,php,html,css,postgresql,mysql,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,php,py,nodejs,html,css,postgresql,mysql,photoshop)](https://skillicons.dev)
 <!--
 **murillodominguez/murillodominguez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
